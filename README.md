@@ -1,2 +1,1 @@
-### Learning full-stack web dev through Coder Academy 🤌🤌
-Changes! 
+### Learning full-stack web dev through Coder Academy!
