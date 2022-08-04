@@ -15,3 +15,6 @@ Repo with full documentation <a href='https://github.com/rikifujihara/scooterbay
 - Image uploads stored on AWS
 - Devise used for Authentication
 - Styled using Bootstrap
+
+
+### I also made a multiple-choice quiz app in Ruby, the repo is <a href='https://github.com/rikifujihara/quiz-app'>here</a>
