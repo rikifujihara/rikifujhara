@@ -11,7 +11,7 @@ Repo <a href='https://github.com/rikifujihara/scooterbay'>here</a>
 ### Stack:
 
 - Rails for MVC
-- Hosted on free Heroku dyno
+- Hosted on free Heroku dyno (please excuse the slow initial load)
 - Image uploads stored on AWS
 - Devise used for Authentication
 - Styled using Bootstrap
