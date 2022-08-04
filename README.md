@@ -6,7 +6,7 @@
 username: tom@test.com
 password: 123123
 
-Repo <a href='https://github.com/rikifujihara/scooterbay'>here</a>
+Repo with full documentation <a href='https://github.com/rikifujihara/scooterbay'>here</a>
 
 ### Stack:
 
