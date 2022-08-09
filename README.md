@@ -17,4 +17,5 @@ Repo with full documentation <a href='https://github.com/rikifujihara/scooterbay
 - Styled using Bootstrap
 
 
-### I also made a terminal based multiple-choice quiz app in Ruby, the repo is <a href='https://github.com/rikifujihara/quiz-app'>here</a>
+### I also made a terminal based multiple-choice quiz app in Ruby: the repo is <a href='https://github.com/rikifujihara/quiz-app'>here</a>
+The text content is stored as JSON and parsed into a ruby hash which the program accesses and displays to the user.
